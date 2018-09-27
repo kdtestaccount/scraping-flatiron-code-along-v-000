@@ -42,6 +42,8 @@ def make_courses
   end
 end
 
+Scraper.new.print_courses
+
+
 end
 
-Scraper.new.print_courses
